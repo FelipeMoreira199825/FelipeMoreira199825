@@ -1,6 +1,6 @@
 # 👨‍💻 Felipe Moreira
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software - 4 semestre  / Técnico em Eletrotecnica - concluido
 📍 Bahia, Brasil  
 🔧 Automação | Infraestrutura | Redes | Desenvolvimento  
 
@@ -17,7 +17,7 @@ Também possuo conhecimentos em redes e infraestrutura, o que me permite entende
 🎯 Busco oportunidade como **Estagiário ou Desenvolvedor Júnior**, nas áreas de:
 - Automação
 - Infraestrutura / Redes
-- Desenvolvimento Backend
+- Desenvolvimento 
 
 ---
 
@@ -29,6 +29,7 @@ Também possuo conhecimentos em redes e infraestrutura, o que me permite entende
 - Selenium (automação web)
 - Git & GitHub
 - SQL
+- N8N
 - Java (básico)
 - JavaScript (básico)
 - Conceitos de Redes e Infraestrutura
