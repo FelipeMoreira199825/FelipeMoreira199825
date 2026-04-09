@@ -2,51 +2,71 @@
 
 🎓 Estudante de Engenharia de Software  
 📍 Bahia, Brasil  
-🚀 Focado em Automação, Monitoramento e Dados  
+🔧 Automação | Infraestrutura | Redes | Desenvolvimento  
 
 ---
 
 ## 💡 Sobre mim
 
-Sou apaixonado por tecnologia e resolução de problemas.  
-Atuo com automações em Python voltadas para monitoramento (Zabbix, Teams) e análise de dados.
+Atuo com automação de processos utilizando Python, com foco em monitoramento de infraestrutura e integração entre sistemas.
 
-Busco uma oportunidade de estágio para aplicar meus conhecimentos e evoluir profissionalmente.
+Tenho experiência prática com Zabbix, APIs e automação web, desenvolvendo soluções para otimizar rotinas operacionais e reduzir falhas manuais.
+
+Também possuo conhecimentos em redes e infraestrutura, o que me permite entender problemas além do código.
+
+🎯 Busco oportunidade como **Estagiário ou Desenvolvedor Júnior**, nas áreas de:
+- Automação
+- Infraestrutura / Redes
+- Desenvolvimento Backend
 
 ---
 
-## ⚙️ Tecnologias
+## ⚙️ Tecnologias e Ferramentas
 
-- Python 🐍
-- JavaScript - Básico
-- Java - Básico
-- SQL 
+- Python 🐍 (Automação e scripts)
+- APIs REST (integração de sistemas)
+- Zabbix (monitoramento)
+- Selenium (automação web)
 - Git & GitHub
-- Selenium / Pyautogui / Pyzabbix/ Automação
-- N8N
-- Zabbix / Grafana (monitoramento)
+- SQL
+- Java (básico)
+- JavaScript (básico)
+- Conceitos de Redes e Infraestrutura
 
 ---
 
 ## 🚀 Projetos em destaque
 
-### 🔥 Automação Zabbix + Teams
-Sistema que monitora eventos no Zabbix e envia alertas inteligentes para o Microsoft Teams.
+### 🔥 Automação Zabbix + Microsoft Teams
+Sistema que monitora eventos no Zabbix e envia alertas inteligentes para o Teams.
 
-👉 Destaques:
+**Principais entregas:**
+- Integração com API do Zabbix
+- Envio de alertas via Webhook
 - Redução de alertas duplicados
-- Filtro por severidade
-- Integração com webhook
+- Lógica de tratamento de incidentes
+- Monitoramento contínuo
 
 ---
 
 ### 📊 Análise de Cancelamento de Clientes
-Projeto de análise exploratória com Python.
+Projeto de análise de dados para identificação de padrões de churn.
 
-👉 Destaques:
-- Limpeza de dados
-- Visualização
-- Insights de negócio
+**Principais entregas:**
+- Limpeza e tratamento de dados
+- Visualização de informações
+- Geração de insights
+
+---
+
+## 🛠️ Experiência prática
+
+- Automação de monitoramento (Zabbix)
+- Integração com Microsoft Teams
+- Criação de scripts para operações de NOC
+- Redução de ruído em alertas
+- Análise de eventos e incidentes
+- Noções de redes e infraestrutura
 
 ---
 
@@ -65,4 +85,4 @@ Projeto de análise exploratória com Python.
 
 ## 🚀 Objetivo
 
-🎯 Conseguir estágio em tecnologia (Dev, Dados ) e evoluir para área de automação e engenharia.
+Crescer profissionalmente na área de tecnologia, atuando com automação, infraestrutura e desenvolvimento, contribuindo com soluções eficientes e escaláveis.
