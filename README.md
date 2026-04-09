@@ -1,44 +1,68 @@
 # 👨‍💻 Felipe Moreira
 
-**Em busca de estágio**
-
-Me chamo Felipe Moreira, tenho 26 anos e sou natural de São Francisco do Conde-BA. Concluí o ensino médio no Colégio Martinho Salles Brasil e atualmente estou cursando Engenharia de Software na Estácio de Sá. Sou apaixonado por tecnologia e estou em busca de uma oportunidade para aplicar meus conhecimentos e crescer profissionalmente.
-
----
-### 🤖 Tecnologias e Linguagens
-
-<!-- Linguagens de programação -->
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<!-- Banco de dados -->
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-<br><br>
+🎓 Estudante de Engenharia de Software  
+📍 Bahia, Brasil  
+🚀 Focado em Automação, Monitoramento e Dados  
 
 ---
 
-### 📊 Estatísticas no GitHub
+## 💡 Sobre mim
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMoreira199825&show_icons=true&theme=radical)
+Sou apaixonado por tecnologia e resolução de problemas.  
+Atuo com automações em Python voltadas para monitoramento (Zabbix, Teams) e análise de dados.
 
----
-
-### 📫 Contato
-
-- **LinkedIn:** [linkedin.com/in/felipemoreira199825](https://www.linkedin.com/in/felipemoreira199825)
-- **Email:** fmoreira82149818@gmail.com
+Busco uma oportunidade de estágio para aplicar meus conhecimentos e evoluir profissionalmente.
 
 ---
 
-### 💡 Observações
+## ⚙️ Tecnologias
 
-- Ativo em projetos de automação com Python e Playwright/Selenium.
-- Experiência prática em análise de dados e desenvolvimento de scripts.
-- - Experiência prática em testes de software - Básico.
-- Apaixonado por aprendizado contínuo e novas tecnologias.
+- Python 🐍
+- JavaScript - Básico
+- Java - Básico
+- SQL 
+- Git & GitHub
+- Selenium / Pyautogui / Pyzabbix/ Automação
+- N8N
+- Zabbix / Grafana (monitoramento)
 
+---
+
+## 🚀 Projetos em destaque
+
+### 🔥 Automação Zabbix + Teams
+Sistema que monitora eventos no Zabbix e envia alertas inteligentes para o Microsoft Teams.
+
+👉 Destaques:
+- Redução de alertas duplicados
+- Filtro por severidade
+- Integração com webhook
+
+---
+
+### 📊 Análise de Cancelamento de Clientes
+Projeto de análise exploratória com Python.
+
+👉 Destaques:
+- Limpeza de dados
+- Visualização
+- Insights de negócio
+
+---
+
+## 📈 GitHub Stats
+
+![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeMoreira199825&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/felipe-moreira-436a17259
+- Email: fmoreira82149818@gmail.com
+
+---
+
+## 🚀 Objetivo
+
+🎯 Conseguir estágio em tecnologia (Dev, Dados ) e evoluir para área de automação e engenharia.
